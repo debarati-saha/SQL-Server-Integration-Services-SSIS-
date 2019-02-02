@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS Project2 - Performing Basic tasks", "SSIS Project2 - Performing Basic tasks\SSIS Project2 - Performing Basic tasks.dtproj", "{03325C6B-9B31-4AEA-9835-6F1DB1F69129}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services Project1", "..\Integration Services Project1\Integration Services Project1\Integration Services Project1.dtproj", "{6E9411FA-49D7-48FF-B319-47AFE654C36F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03325C6B-9B31-4AEA-9835-6F1DB1F69129}.Development|Default.ActiveCfg = Development
+		{03325C6B-9B31-4AEA-9835-6F1DB1F69129}.Development|Default.Build.0 = Development
+		{6E9411FA-49D7-48FF-B319-47AFE654C36F}.Development|Default.ActiveCfg = Development
+		{6E9411FA-49D7-48FF-B319-47AFE654C36F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8696FA-2751-4411-90BA-C12340FB6A07}
+	EndGlobalSection
+EndGlobal
